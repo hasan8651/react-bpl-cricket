@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500000,
+    "image": "https://documents.bcci.tv/resizedimageskirti/164_compress.png"
+  },
+  {
+    "id": 2,
+    "name": "MS Dhoni",
+    "country": "India",
+    "role": "Wicket-Keeper",
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "N/A",
+    "price": 1200000,
+    "image": "https://cdn.britannica.com/25/222725-050-170F622A/Indian-cricketer-Mahendra-Singh-Dhoni-2011.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Off-break",
+    "price": 1300000,
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/6.png"
+  },
+  {
+    "id": 4,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1100000,
+    "image": "https://www.iplbetonline.in/wp-content/uploads/2023/04/1124-780x780.png"
+  },
+  {
+    "id": 5,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand Bat",
+    "bowlingStyle": "Left-arm spin",
+    "price": 1400000,
+    "image": "https://www.lakriders.us/static-assets/images/players/3782.png?v=1.28"
+  },
+  {
+    "id": 6,
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "battingStyle": "Left-Hand Bat",
+    "bowlingStyle": "N/A",
+    "price": 900000,
+    "image": "https://www.bssnews.net/assets/news_photos/2023/02/07/image-109433-1675773647.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1350000,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383172.1.png"
+  },
+  {
+    "id": 8,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Legbreak",
+    "price": 1250000,
+    "image": "https://www.wisden.com/static-assets/images/players/4308.png"
+  },
+  {
+    "id": 9,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "battingStyle": "Left-Hand Bat",
+    "bowlingStyle": "N/A",
+    "price": 1150000,
+    "image": "https://www.wisden.com/static-assets/images/players/5380.png"
+  },
+  {
+    "id": 10,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand Bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1500000,
+    "image": "https://resources.ecb.co.uk/player-photos/test/800x800/1154.png"
+  },
+  {
+    "id": 11,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "N/A",
+    "price": 1400000,
+    "image": "https://www.nation.com.pk/print_images/large/2020-01-01/2019-was-a-great-year-for-me-says-babar-azam-1577821617-3912.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand Bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1200000,
+    "image": "https://c.ndtvimg.com/2023-11/7qjjknf8_shaheen-afridi-afp_625x300_01_November_23.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "role": "Batsman",
+    "battingStyle": "Left-Hand Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": 1350000,
+    "image": "https://www.punjabkingsipl.in/static-assets/images/players/1201.png"
+  },
+  {
+    "id": 14,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "role": "All-Rounder",
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1450000,
+    "image": "https://www.ilt20.ae/static-assets/images/players/12047.png"
+  },
+  {
+    "id": 15,
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Wicket-Keeper",
+    "price": 1400000,
+    "image": "https://documents.iplt20.com/playerheadshot/ipl/284/233.png"
+  }
+]
