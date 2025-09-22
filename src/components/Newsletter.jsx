@@ -17,8 +17,8 @@ const Newsletter = () => {
   };
 
   return (
-  <div className="border-2 border-amber-500 rounded-2xl p-6 my-10">
-      <div className="hero bg-[url(/src/assets/bg-shadow.png)] h-[280px] rounded-2xl  ">
+  <div className="max-w-6xl mx-auto bg-white/25 border-3 border-white rounded-2xl p-6 my-10 relative z-10 -mb-40">
+      <div className="hero bg-[url(/src/assets/bg-shadow.png)] h-[280px] rounded-2xl">
       <div className="flex-col text-center">
         {savedEmail ? (
           <h3 className="text-4xl">Welcome back, {savedEmail} 🎉</h3>
