@@ -1,6 +1,9 @@
 const Footer = () => (
-  <footer className="footer p-10 bg-neutral text-neutral-content mt-10">
+  <footer className=" p-10 bg-neutral text-neutral-content mt-10">
     <aside>
+      <div className="flex justify-center items-center">
+        <img className="mt-40 mb-20 " src="/src/assets/logo-footer.png" alt="" />
+      </div>
       <p className="font-bold">Cricket © 2024</p>
       <p>Your Company. All Rights Reserved.</p>
     </aside>

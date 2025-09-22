@@ -48,16 +48,27 @@ const App = () => {
       <Navbar coins={coins} />
       <Banner addCoins={addCoins} />
 
-   
-    
 
-      <div className="gap-1 flex justify-end">
-        <button className={`btn ${!showSelected && "btn-active"}`} onClick={()=>setShowSelected(false)}>Available</button>
-        <button className={`btn ${showSelected && "btn-active"}`} onClick={()=>setShowSelected(true)}>
+
+ <div className="max-w-7xl mx-auto flex justify-between items-center mb-4">
+          <h1 className="font-bold text-2xl">{
+            showSelected===false?"Available Players":`Selected Player (${selectedPlayers.length}/6)`
+            }</h1>
+
+
+
+      <div className="flex justify-end">
+        <button className={`  px-10 border-1 border-gray-400 rounded-l-2xl border-r-0 ${
+          showSelected ? "btn ":"bg-[#E7FE29] "}`} onClick={()=>setShowSelected(false)}>Available</button>
+        <button className={` px-8 border-1 border-gray-400 rounded-r-2xl border-l-0 ${
+          !showSelected ? "btn":"bg-[#E7FE29] "}`} onClick={()=>setShowSelected(true)}>
           Selected ({selectedPlayers.length})
         </button>
+
+          
+
       </div>
-     
+     </div>
 
       {showSelected ? (
         <SelectedPlayers 

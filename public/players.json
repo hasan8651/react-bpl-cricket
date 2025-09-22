@@ -7,6 +7,7 @@
     "battingStyle": "Right-Hand Bat",
     "bowlingStyle": "Right-arm medium",
     "price": 1500000,
+    "rating": 4.9,
     "image": "https://documents.bcci.tv/resizedimageskirti/164_compress.png"
   },
   {
@@ -17,6 +18,7 @@
     "battingStyle": "Right-Hand Bat",
     "bowlingStyle": "N/A",
     "price": 1200000,
+    "rating": 5.7,
     "image": "https://cdn.britannica.com/25/222725-050-170F622A/Indian-cricketer-Mahendra-Singh-Dhoni-2011.jpg"
   },
   {
@@ -27,6 +29,7 @@
     "battingStyle": "Right-Hand Bat",
     "bowlingStyle": "Off-break",
     "price": 1300000,
+    "rating": 9.0,
     "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/6.png"
   },
   {
@@ -37,6 +40,7 @@
     "battingStyle": "Right-Hand Bat",
     "bowlingStyle": "Right-arm fast",
     "price": 1100000,
+    "rating": 6.6,
     "image": "https://www.iplbetonline.in/wp-content/uploads/2023/04/1124-780x780.png"
   },
   {
@@ -47,6 +51,7 @@
     "battingStyle": "Left-Hand Bat",
     "bowlingStyle": "Left-arm spin",
     "price": 1400000,
+    "rating": 5.8,
     "image": "https://www.lakriders.us/static-assets/images/players/3782.png?v=1.28"
   },
   {
@@ -57,6 +62,7 @@
     "battingStyle": "Left-Hand Bat",
     "bowlingStyle": "N/A",
     "price": 900000,
+    "rating": 6.2,
     "image": "https://www.bssnews.net/assets/news_photos/2023/02/07/image-109433-1675773647.jpg"
   },
   {
@@ -67,6 +73,7 @@
     "battingStyle": "Right-Hand Bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 1350000,
+    "rating": 4.3,
     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383172.1.png"
   },
   {
@@ -77,6 +84,7 @@
     "battingStyle": "Right-Hand Bat",
     "bowlingStyle": "Legbreak",
     "price": 1250000,
+    "rating": 5.4,
     "image": "https://www.wisden.com/static-assets/images/players/4308.png"
   },
   {
@@ -87,6 +95,7 @@
     "battingStyle": "Left-Hand Bat",
     "bowlingStyle": "N/A",
     "price": 1150000,
+    "rating": 8.2,
     "image": "https://www.wisden.com/static-assets/images/players/5380.png"
   },
   {
@@ -97,6 +106,7 @@
     "battingStyle": "Left-Hand Bat",
     "bowlingStyle": "Right-arm fast-medium",
     "price": 1500000,
+    "rating": 2.5,
     "image": "https://resources.ecb.co.uk/player-photos/test/800x800/1154.png"
   },
   {
@@ -107,6 +117,7 @@
     "battingStyle": "Right-Hand Bat",
     "bowlingStyle": "N/A",
     "price": 1400000,
+    "rating": 7.3,
     "image": "https://www.nation.com.pk/print_images/large/2020-01-01/2019-was-a-great-year-for-me-says-babar-azam-1577821617-3912.jpg"
   },
   {
@@ -117,6 +128,7 @@
     "battingStyle": "Left-Hand Bat",
     "bowlingStyle": "Left-arm fast",
     "price": 1200000,
+    "rating": 8.8,
     "image": "https://c.ndtvimg.com/2023-11/7qjjknf8_shaheen-afridi-afp_625x300_01_November_23.jpg"
   },
   {
@@ -127,6 +139,7 @@
     "battingStyle": "Left-Hand Bat",
     "bowlingStyle": "Right-arm Offbreak",
     "price": 1350000,
+    "rating": 4.2,
     "image": "https://www.punjabkingsipl.in/static-assets/images/players/1201.png"
   },
   {
@@ -137,6 +150,7 @@
     "battingStyle": "Right-Hand Bat",
     "bowlingStyle": "Right-arm fast",
     "price": 1450000,
+    "rating": 5.5,
     "image": "https://www.ilt20.ae/static-assets/images/players/12047.png"
   },
   {
@@ -147,6 +161,7 @@
     "battingStyle": "Right-Hand Bat",
     "bowlingStyle": "Wicket-Keeper",
     "price": 1400000,
+    "rating": 6.4,
     "image": "https://documents.iplt20.com/playerheadshot/ipl/284/233.png"
   }
 ]
