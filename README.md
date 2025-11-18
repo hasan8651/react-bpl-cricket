@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://nactar.org/upload/student/6f6c7bc9cb.jpeg" width="120" alt="Project logo" /> </p> <h1 align="center">Study Pilot</h1>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
